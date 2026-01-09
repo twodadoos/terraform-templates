@@ -1,4 +1,4 @@
-## Terraform-Templates
+## terraform-templates
 
 This repository contains a collection of Terraform templates for automating the provisioning and management of infrastructure. The templates cover common use cases such as creating cloud resources, networking components, storage, and application deployments. They are designed to be modular, readable, and adaptable to different environments and cloud providers.
 
@@ -25,7 +25,7 @@ All templates are examples and may require modification to suit production use.
 ```
 git clone https://github.com/twodadoos/Terraform-Templates.git
 
-cd Terraform-Templates
+cd terraform-templates
 ```
 
 #### Initialize Terraform in a template directory
